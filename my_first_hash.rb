@@ -21,7 +21,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  puts shipping_manifest[oil]
+  puts shipping_manifest["oil paintings"]
 
 end
 
